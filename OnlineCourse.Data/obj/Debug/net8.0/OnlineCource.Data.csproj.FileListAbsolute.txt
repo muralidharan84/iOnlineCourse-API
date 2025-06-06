@@ -1,0 +1,17 @@
+D:\Sample\OnlineCource.API\OnlineCource.Data\bin\Debug\net8.0\OnlineCource.Data.deps.json
+D:\Sample\OnlineCource.API\OnlineCource.Data\bin\Debug\net8.0\OnlineCource.Data.runtimeconfig.json
+D:\Sample\OnlineCource.API\OnlineCource.Data\bin\Debug\net8.0\OnlineCource.Data.dll
+D:\Sample\OnlineCource.API\OnlineCource.Data\bin\Debug\net8.0\OnlineCource.Data.pdb
+D:\Sample\OnlineCource.API\OnlineCource.Data\bin\Debug\net8.0\OnlineCourse.Core.dll
+D:\Sample\OnlineCource.API\OnlineCource.Data\bin\Debug\net8.0\OnlineCourse.Core.pdb
+D:\Sample\OnlineCource.API\OnlineCource.Data\obj\Debug\net8.0\OnlineCource.Data.csproj.AssemblyReference.cache
+D:\Sample\OnlineCource.API\OnlineCource.Data\obj\Debug\net8.0\OnlineCource.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample\OnlineCource.API\OnlineCource.Data\obj\Debug\net8.0\OnlineCource.Data.AssemblyInfoInputs.cache
+D:\Sample\OnlineCource.API\OnlineCource.Data\obj\Debug\net8.0\OnlineCource.Data.AssemblyInfo.cs
+D:\Sample\OnlineCource.API\OnlineCource.Data\obj\Debug\net8.0\OnlineCource.Data.csproj.CoreCompileInputs.cache
+D:\Sample\OnlineCource.API\OnlineCource.Data\obj\Debug\net8.0\OnlineCo.99FBF1B6.Up2Date
+D:\Sample\OnlineCource.API\OnlineCource.Data\obj\Debug\net8.0\OnlineCource.Data.dll
+D:\Sample\OnlineCource.API\OnlineCource.Data\obj\Debug\net8.0\refint\OnlineCource.Data.dll
+D:\Sample\OnlineCource.API\OnlineCource.Data\obj\Debug\net8.0\OnlineCource.Data.pdb
+D:\Sample\OnlineCource.API\OnlineCource.Data\obj\Debug\net8.0\OnlineCource.Data.genruntimeconfig.cache
+D:\Sample\OnlineCource.API\OnlineCource.Data\obj\Debug\net8.0\ref\OnlineCource.Data.dll
